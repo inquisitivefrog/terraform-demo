@@ -1,0 +1,8 @@
+
+Google Search: AWS CLI Download for Mac
+then 
+$ aws configure
+$ ls -l $HOME/.aws
+
+NOTE: from now on, terraform will check those files for credentials
+

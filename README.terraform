@@ -1,0 +1,11 @@
+
+Google Search: terraform download mac
+
+$ terraform
+$ cd $HOME/Documents/workspace/terraform/demo
+$ vi main.tf
+$ terraform init
+$ find .terraform -print
+$ terraform plan
+$ terraform validate
+$ terraform apply
